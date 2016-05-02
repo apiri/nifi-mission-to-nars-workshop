@@ -2,7 +2,7 @@
 # _Mission to NARs_ Apache NiFi Workshop
 Thursday, 12 May, 2016
 
-_These instructions are available at: https://github.com/apiri/nifi-mission-to-nars-workshop/blob/master/README.md_
+_These instructions are available at the [GitHub Repository](https://github.com/apiri/nifi-mission-to-nars-workshop/blob/master/README.md)._
 
 **Note:** Feel free to [open an issue on the GitHub repository](https://github.com/apiri/nifi-mission-to-nars-workshop/issues) with any questions or points that may be unclear!
 
