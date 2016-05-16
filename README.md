@@ -7,6 +7,8 @@ _These instructions are available at the [GitHub Repository](https://github.com/
 **Note:** Feel free to [open an issue on the GitHub repository](https://github.com/apiri/nifi-mission-to-nars-workshop/issues) with any questions or points that may be unclear!
 
 ******
+# Slides
+The accompanying slides from the workshop can be found at: http://www.slideshare.net/aldrinpiri/apachecon-2016-mission-to-nars-with-apache-nifi
 
 # What should I do before arriving?
 Due to possible network congestion, the following items will help us ensure we can maximize our time during the workshop.
